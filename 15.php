@@ -2,7 +2,7 @@
 
 srand((double)microtime()*1000000); 
 
-for ($i=1;$i<=1000;$i++) 
+for ($i=1;$i<=1000000;$i++) 
 
 { 
 
